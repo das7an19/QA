@@ -4,7 +4,7 @@ There are Login, Create, View Client, Edit Client test cases automated.
 # How to run tests:
 In order to run  a test, we have to install node.js in any code editing program such as VS code.
 Install a node.js package called npm:
-## npm i'
+## npm i
 And then we can  launchthe test:
 ## npm run wdio
 # What are automated test cases: 
